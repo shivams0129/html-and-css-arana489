@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <body>
+        <style> div { border: 3px solid black; border-radius: 10px; padding: 10px; } </style> <div>
+        <style> @import url(‘https://fonts.googleapis.com/css?family=EB+Garamond’); h1 { text-align: center; color: blue; font-family: ‘EB Garamond’, serif; } </style> <h1>Shivam Singhal</h1>
+        <style> img { float: left; width: 600px; height: 150px; margin-right: 10px; } </style> <div class="inner"> <img src="https://images.squarespace-cdn.com/content/v1/64d17d8c8a18581d94b3e5c8/3952ab9d-599e-4f15-91cd-37214d1915eb/Frame-4-5.png" alt="TAMID logo" width="200" height="50"> <h2>I am NOT your TCF TA</h2> </div>
+        <p>My LinkedIn: </p>
+        <p>Work: singhal.shiv@northeastern.edu</p>
+        <p>+1 (857) 294-5492</p>
+    </div>
+
+    </body>
+    </head>
+</html>
